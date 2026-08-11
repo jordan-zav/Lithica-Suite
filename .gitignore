@@ -1,0 +1,20 @@
+# Generated local state
+.idea/
+.vscode/
+.dart_tool/
+build/
+artifacts/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.log
+*.tmp
+*.bak
+*.old
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
