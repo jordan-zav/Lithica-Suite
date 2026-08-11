@@ -6,7 +6,7 @@ if not defined LITHICA_BUILDS_ROOT set "LITHICA_BUILDS_ROOT=D:\LithicaBuilds"
 set "CHECK_ARG="
 if /i "%~1"=="--check-only" set "CHECK_ARG=-CheckOnly"
 echo Preparando Suite...
-powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0PREPARAR_REPO.ps1" -Product "Suite" -ProjectRoot "%~dp0" -TargetSet "None" %CHECK_ARG%
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0PREPARAR_REPO.ps1" -Product "Suite" -ProjectRoot "%~dp0." -TargetSet "None" %CHECK_ARG%
 set "EXIT_CODE=%ERRORLEVEL%"
 echo.
 echo Reporte: %LITHICA_BUILDS_ROOT%\Suite\logs\prepare-repo-last.txt
