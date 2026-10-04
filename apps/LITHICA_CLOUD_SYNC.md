@@ -1,8 +1,8 @@
-﻿# Lithica Cloud Sync
+# Lithica Cloud Sync
 
 [![Portfolio](https://img.shields.io/badge/GisGeo_Portfolio-Lithica_Cloud_Sync-0969da?style=flat-square)](https://gisgeo.dev/es/portfolio/lithica-cloud-sync)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/jordan-zav/Lithica-Cloud-Sync)
-[![Version](https://img.shields.io/badge/Version-v2.0.3-success?style=flat-square)](https://github.com/jordan-zav/Lithica-Cloud-Sync/releases)
+[![Version](https://img.shields.io/badge/Version-v2.0.4-success?style=flat-square)](https://github.com/jordan-zav/Lithica-Cloud-Sync/releases)
 [![Platform](https://img.shields.io/badge/Plataforma-QGIS_3.x-589632?style=flat-square&logo=qgis)](https://qgis.org)
 
 **Plugin oficial para QGIS que descubre, valida, descarga y abre de forma segura proyectos de Lithica Explorer y Lithica Mapper sincronizados mediante Google Drive.**
@@ -13,7 +13,7 @@
 
 - **Ficha en Portafolio:** [gisgeo.dev/es/portfolio/lithica-cloud-sync](https://gisgeo.dev/es/portfolio/lithica-cloud-sync)
 - **Repositorio en GitHub:** [github.com/jordan-zav/Lithica-Cloud-Sync](https://github.com/jordan-zav/Lithica-Cloud-Sync)
-- **Estado:** Disponible · Versión 2.0.3 (2026 - Presente)
+- **Estado:** Disponible · Versión del código 2.0.4 (2026 - Presente)
 
 ---
 
@@ -47,13 +47,13 @@ Permite que geólogos, cartógrafos y equipos de oficina accedan de forma inmedi
 
 ## Integración en la Suite
 
-```mermaid
-flowchart LR
-    Explorer["📱 Lithica Explorer<br/>(Observaciones de Campo)"] -->|Google Drive Sync| Cloud["☁️ Lithica Cloud Storage<br/>(Google Drive)"]
-    Mapper["📱 Lithica Mapper<br/>(Cartografía GeoPackage)"] -->|Google Drive Sync| Cloud
-    Cloud -->|Descubrimiento y Validación| Plugin["🔌 Lithica Cloud Sync<br/>(Plugin QGIS v2.0.3)"]
-    Plugin -->|Carga de Capas y Estilos| QGIS["🗺️ QGIS Desktop<br/>(Gabinete / Oficina)"]
-```
+
+    flowchart LR
+        Explorer["📱 Lithica Explorer<br/>(Observaciones de Campo)"] -->|Google Drive Sync| Cloud["☁️ Lithica Cloud Storage<br/>(Google Drive)"]
+        Mapper["📱 Lithica Mapper<br/>(Cartografía GeoPackage)"] -->|Google Drive Sync| Cloud
+        Cloud -->|Descubrimiento y Validación| Plugin["🔌 Lithica Cloud Sync<br/>(Plugin QGIS v2.0.4)"]
+        Plugin -->|Carga de Capas y Estilos| QGIS["🗺️ QGIS Desktop<br/>(Gabinete / Oficina)"]
+
 
 ---
 
@@ -62,4 +62,5 @@ flowchart LR
 - **QGIS:** Versión 3.22 LTR o superior.
 - **Python:** 3.9+ (incluido en entornos QGIS estándar).
 - **Cuenta Google:** Acceso a la cuenta donde se sincronizan los proyectos de campo de Lithica.
-- **Instalación:** Disponible como complemento descargable `.zip` desde los [Releases de GitHub](https://github.com/jordan-zav/Lithica-Cloud-Sync/releases) o mediante el repositorio oficial de complementos de QGIS.
+- **Instalación:** Disponible como complemento descargable .zip desde los [Releases de GitHub](https://github.com/jordan-zav/Lithica-Cloud-Sync/releases) o mediante el repositorio oficial de complementos de QGIS.
+Estado de publicación y builds: consulta fechada en [RELEASES.md](../RELEASES.md). Las capacidades del código pueden ser posteriores a la versión distribuida.

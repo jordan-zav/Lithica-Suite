@@ -1,32 +1,19 @@
 # Lithica GeoModeller
 
-Fecha de actualización: 1 de agosto de 2026
+Estado revisado el 4 de octubre de 2026 a partir del repositorio del producto.
 
-## Estado actual
+GeoModeller tiene una implementación Flutter, configuración de compilación, pruebas y un backend Python con servicios FastAPI, transformaciones de coordenadas y motor de modelamiento. El código declara la versión de desarrollo 0.1.0+1. Se encuentra en desarrollo; esta ficha no confirma una publicación en Google Play ni un instalador público.
 
-Lithica GeoModeller permanece en fase conceptual. El directorio del proyecto existe, pero no contiene código, configuración de compilación ni documentación propia que permita declarar una aplicación implementada.
+## Alcance implementado en el proyecto
 
-## Propósito
+- Importación de contactos, orientaciones, sondeos y superficies.
+- Motor GemPy para modelamiento implícito y servicios de cálculo Python.
+- Visualización tridimensional, herramientas estructurales y estereograma.
+- Transformaciones CRS, importación GeoPackage y CSV y lectura de DEM ASCII.
+- Cálculos de volumen y exportación de resultados del modelo.
 
-GeoModeller permitirá construir y comprender modelos geológicos implícitos a partir de contactos, orientaciones, superficies, unidades, fallas e interpretaciones.
-
-## Alcance previsto
-
-- Crear modelos a partir de contactos y orientaciones.
-- Incorporar topografía, secciones y superficies.
-- Definir unidades, fallas y relaciones de precedencia.
-- Visualizar cortes, superficies y volúmenes en dos y tres dimensiones.
-- Modificar restricciones y comparar interpretaciones.
-- Mostrar la evidencia que sostiene cada parte del modelo.
-- Exportar resultados, vistas y datos interoperables.
+Las plataformas y herramientas deben validarse para cada build. El identificador Android actual es de ejemplo y no acredita que exista una app publicada con ese nombre.
 
 ## Integración prevista
 
-- Recibirá observaciones de Explorer.
-- Utilizará contactos, fallas y unidades de Mapper.
-- Documentará modelos e interpretaciones en Atlas.
-- Participará en laboratorios guiados de Academy.
-
-## Próximo hito
-
-Definir el MVP, la arquitectura de cálculo y el reparto entre procesamiento local y servicios externos. Antes de prometer una experiencia Android debe validarse el costo real del motor de modelamiento y la visualización tridimensional.
+Puede utilizar evidencia y archivos cartográficos de Explorer y Mapper. La interoperabilidad se valida con los formatos y flujos disponibles; la visión de una identidad y un espacio de trabajo comunes se describe como propuesta en Lithica Secrets.
