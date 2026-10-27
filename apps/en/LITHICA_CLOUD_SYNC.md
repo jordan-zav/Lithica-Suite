@@ -25,4 +25,6 @@ Requires QGIS 3.34 or later. Drive access is read-only: changes made in QGIS are
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-cloud-sync/).
 
+<a href="https://github.com/jordan-zav/Lithica-Cloud-Sync/releases/download/v2.0.4/Lithica.Cloud.Sync-2.0.4.zip"><img src="../../assets/badges/qgis-en.svg" width="260" alt="Download Cloud Sync"></a>
+
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

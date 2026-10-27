@@ -52,19 +52,25 @@ The family also includes **[Academy](apps/en/LITHICA_ACADEMY.md)**, with Spanish
 
 Capture field evidence and keep its geological context.
 
-<a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.png" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
+<a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.rounded.png" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithicaexplorer"><img src="assets/badges/google-play-en.png" width="180" alt="Get it on Google Play"></a>
 
 ### Lithica Atlas
 
 Explore visual collections and scientific references.
 
-<a href="apps/en/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
+<a href="apps/en/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.rounded.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithica.atlas"><img src="assets/badges/google-play-en.png" width="180" alt="Get it on Google Play"></a>
 
 ### Lithica Mapper
 
 Draw, organize and exchange geological maps.
 
-<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
+<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.rounded.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper"><img src="assets/badges/google-play-en.png" width="180" alt="Get it on Google Play"></a>
 
 ## From fieldwork to the desktop
 
@@ -80,6 +86,8 @@ Applications keep their own projects. Cloud Sync is a read-only bridge to QGIS: 
 **Explorer, Mapper and Atlas** are available on Google Play for Android. **GeoTech** offers access through closed testing. **Cloud Sync** is distributed as a QGIS plugin. Notebook, GeoModeller and Spectra remain in development; Academy is educational material.
 
 See **[Downloads and access](RELEASES.en.md)** for the appropriate channel. Platform support in a project does not establish that a public installer is already available.
+
+<p><a href="https://github.com/jordan-zav/Lithica-Cloud-Sync/releases/download/v2.0.4/Lithica.Cloud.Sync-2.0.4.zip"><img src="assets/badges/qgis-en.svg" width="260" alt="Download Cloud Sync for QGIS"></a> <a href="https://forms.gle/GtNmVjVvpPzs2q5u6"><img src="assets/badges/beta-en.svg" width="260" alt="Request GeoTech closed-testing access"></a></p>
 
 ## Frequently asked questions
 

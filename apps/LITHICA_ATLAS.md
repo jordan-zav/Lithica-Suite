@@ -19,7 +19,7 @@ La preparación inicial requiere conexión, espacio libre y tiempo para descarga
 
 **Estado:** Disponible en Google Play.
 
-[Descargar en Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithica.atlas).
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithica.atlas"><img src="../assets/badges/google-play-es.png" width="180" alt="Disponible en Google Play"></a>
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-atlas/).
 

@@ -19,11 +19,11 @@ Check units, datum and coordinate reference systems when combining data. Account
 
 **Status:** Available on Google Play.
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper).
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper"><img src="../../assets/badges/google-play-en.png" width="180" alt="Get it on Google Play"></a>
 
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-mapper/).
 
-<img src="../../assets/showcase/mapper.en.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus.">
+<img src="../../assets/showcase/mapper.en.rounded.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

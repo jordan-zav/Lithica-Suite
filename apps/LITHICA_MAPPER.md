@@ -19,7 +19,7 @@ Comprueba unidades, datum y SRC al combinar datos. La cuenta se verifica con con
 
 **Estado:** Disponible en Google Play.
 
-[Descargar en Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper).
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper"><img src="../assets/badges/google-play-es.png" width="180" alt="Disponible en Google Play"></a>
 
 <img src="../assets/showcase/mapper.webp" width="100%" alt="Presentación de Lithica Mapper con edición cartográfica en tablet.">
 

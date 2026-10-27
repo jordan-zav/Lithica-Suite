@@ -19,7 +19,7 @@ Prepara las áreas y sus archivos antes de salir a campo. El primer acceso, la r
 
 **Estado:** Disponible en Google Play.
 
-[Descargar en Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithicaexplorer).
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithicaexplorer"><img src="../assets/badges/google-play-es.png" width="180" alt="Disponible en Google Play"></a>
 
 [Manual de usuario](https://gisgeo.dev/es/portfolio/lithica-explorer/manual/).
 

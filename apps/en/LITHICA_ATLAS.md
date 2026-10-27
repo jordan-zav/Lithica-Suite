@@ -19,10 +19,10 @@ Initial setup requires connectivity, free storage and time to download the catal
 
 **Status:** Available on Google Play.
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithica.atlas).
+<a href="https://play.google.com/store/apps/details?id=com.gisgeodev.lithica.atlas"><img src="../../assets/badges/google-play-en.png" width="180" alt="Get it on Google Play"></a>
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-atlas/).
 
-<img src="../../assets/showcase/atlas.en.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book.">
+<img src="../../assets/showcase/atlas.en.rounded.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).
