@@ -21,10 +21,9 @@ Check units, datum and coordinate reference systems when combining data. Account
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.gisgeodev.lithicamapper).
 
-<img src="../../assets/showcase/mapper.webp" width="100%" alt="Lithica Mapper presentation showing geological editing on a tablet.">
-
-Illustrative material with Spanish interface examples; the interface may vary by version.
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-mapper/).
+
+<img src="../../assets/showcase/mapper.en.svg" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

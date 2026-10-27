@@ -16,7 +16,7 @@ Local work and offline preparation are central to the field applications. Accoun
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/logos/explorer.png" width="88" height="88" alt="Lithica Explorer logo"></a><br><strong>Explorer</strong><br><sub>Your geological field notebook</sub></td>
+<td align="center" width="25%"><a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/logos/explorer-1dfa2c29.png" width="88" height="88" alt="Lithica Explorer logo"></a><br><strong>Explorer</strong><br><sub>Your geological field notebook</sub></td>
 <td align="center" width="25%"><a href="apps/en/LITHICA_MAPPER.md"><img src="assets/logos/mapper.png" width="88" height="88" alt="Lithica Mapper logo"></a><br><strong>Mapper</strong><br><sub>Geological mapping with a stylus</sub></td>
 <td align="center" width="25%"><a href="apps/en/LITHICA_ATLAS.md"><img src="assets/logos/atlas.png" width="88" height="88" alt="Lithica Atlas logo"></a><br><strong>Atlas</strong><br><sub>Geoscience reference at hand</sub></td>
 <td align="center" width="25%"><a href="apps/en/LITHICA_NOTEBOOK.md"><img src="assets/logos/notebook.png" width="88" height="88" alt="Lithica Notebook logo"></a><br><strong>Notebook</strong><br><sub>Read, annotate, study and compute</sub></td>
@@ -46,11 +46,25 @@ The family also includes **[Academy](apps/en/LITHICA_ACADEMY.md)**, with Spanish
 | Follow guided exercises | [Academy](apps/en/LITHICA_ACADEMY.md) | Leapfrog Geo, Oasis montaj and GravMag modules. |
 | Explore the open geotechnical edition | [GeoTech Community](apps/en/LITHICA_GEOTECH_COMMUNITY.md) | Community source code with its own license and development. |
 
-## Mapping in the field and office
+## Explore the apps
 
-<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.webp" width="100%" alt="Lithica Mapper showcase: layers, georeferenced PDF, symbology and tablet editing."></a>
+### Lithica Explorer
 
-<sub>Mapper presentation material with Spanish interface examples. Interfaces may vary between versions; check its product page and distribution channel.</sub>
+Capture field evidence and keep its geological context.
+
+<a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.svg" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
+
+### Lithica Atlas
+
+Explore visual collections and scientific references.
+
+<a href="apps/en/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.svg" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
+
+### Lithica Mapper
+
+Draw, organize and exchange geological maps.
+
+<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.svg" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
 
 ## From fieldwork to the desktop
 

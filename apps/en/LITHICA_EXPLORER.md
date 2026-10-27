@@ -1,6 +1,6 @@
 [Español](../LITHICA_EXPLORER.md) · **English**
 
-<p><img src="../../assets/logos/explorer.png" width="88" height="88" alt="Lithica Explorer logo"></p>
+<p><img src="../../assets/logos/explorer-1dfa2c29.png" width="88" height="88" alt="Lithica Explorer logo"></p>
 
 # Lithica Explorer
 
@@ -24,5 +24,7 @@ Prepare areas and files before leaving coverage. First sign-in, account renewal,
 [User manual](https://gisgeo.dev/portfolio/lithica-explorer/manual/).
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-explorer/).
+
+<img src="../../assets/showcase/explorer.en.svg" width="100%" alt="English presentation of Explorer with a schematic field map and location markers.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).
