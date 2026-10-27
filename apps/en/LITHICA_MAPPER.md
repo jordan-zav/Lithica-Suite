@@ -27,4 +27,4 @@ Illustrative material with Spanish interface examples; the interface may vary by
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-mapper/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

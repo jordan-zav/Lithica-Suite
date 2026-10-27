@@ -25,4 +25,4 @@ Requiere QGIS 3.34 o posterior. El acceso a Drive es de solo lectura: los cambio
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-cloud-sync/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

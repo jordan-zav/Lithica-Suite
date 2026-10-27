@@ -23,4 +23,4 @@ La preparación inicial requiere conexión, espacio libre y tiempo para descarga
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-atlas/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

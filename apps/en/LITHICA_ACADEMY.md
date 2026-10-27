@@ -19,4 +19,4 @@ This is educational material, not an Android app. Lessons retain each module's r
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-academy/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

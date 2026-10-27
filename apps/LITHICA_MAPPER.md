@@ -27,4 +27,4 @@ Material ilustrativo; la interfaz puede variar según la versión.
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-mapper/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

@@ -25,4 +25,4 @@ Prepare areas and files before leaving coverage. First sign-in, account renewal,
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-explorer/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

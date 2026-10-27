@@ -25,4 +25,4 @@ Prepara las áreas y sus archivos antes de salir a campo. El primer acceso, la r
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-explorer/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

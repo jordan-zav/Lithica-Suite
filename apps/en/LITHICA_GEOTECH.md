@@ -23,4 +23,4 @@ Results depend on inputs, units and the method version. Reference properties do 
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-geotech/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

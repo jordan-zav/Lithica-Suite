@@ -30,4 +30,4 @@ No verified Windows installer is offered here. Windows support in a project and 
 
 Availability reviewed October 26, 2026. For updates and questions, visit [GisGeo Dev](https://gisgeo.dev/portfolio/lithica-suite/) or the [contact page](https://gisgeo.dev/contact/).
 
-[Back to Lithica Suite](README.en.md).
+[Back to Lithica Suite](README.md).

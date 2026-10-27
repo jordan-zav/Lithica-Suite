@@ -21,4 +21,4 @@ Computation requires an available engine and valid input data. Review coordinate
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-geomodeller/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

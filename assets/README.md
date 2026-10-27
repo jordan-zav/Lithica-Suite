@@ -6,4 +6,4 @@ El banner de la portada representa relieve, estratos y cartografía con los colo
 
 Las marcas e imágenes identifican productos de GisGeo Dev. Su presencia en este repositorio no concede una licencia general sobre las aplicaciones, el contenido científico ni los recursos de terceros. Consulta las condiciones de cada producto y sus atribuciones.
 
-[Volver al catálogo](../README.md).
+[Volver al catálogo](../README.es.md).

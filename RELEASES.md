@@ -30,4 +30,4 @@ No se ofrece aquí un instalador Windows verificado. El soporte Windows de un pr
 
 Disponibilidad revisada el 26 de octubre de 2026. Para novedades o consultas, visita [GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-suite/) o utiliza la [página de contacto](https://gisgeo.dev/es/contact/).
 
-[Volver a Lithica Suite](README.md).
+[Volver a Lithica Suite](README.es.md).

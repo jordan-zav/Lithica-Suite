@@ -21,4 +21,4 @@ El cálculo requiere un motor disponible y datos válidos. Revisa SRC, unidades,
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-geomodeller/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

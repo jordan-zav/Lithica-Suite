@@ -19,4 +19,4 @@ Es contenido educativo, no una aplicación Android. Las clases conservan la edic
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-academy/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

@@ -21,4 +21,4 @@ La disponibilidad de bandas depende del producto y de los metadatos de cada arch
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-spectra/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

@@ -21,4 +21,4 @@ Community y GeoTech se mantienen por separado. Una función, una prueba o una pu
 
 [Repositorio público y licencia](https://github.com/jordan-zav/Lithica-GeoTech-Community).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

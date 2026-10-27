@@ -21,4 +21,4 @@ Abrir un documento no ejecuta su código. Lab ejecuta solo cuando lo solicitas y
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-notebook/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).

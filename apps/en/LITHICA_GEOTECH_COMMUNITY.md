@@ -21,4 +21,4 @@ Community and GeoTech are maintained separately. Features, tests or publications
 
 [Public repository and license](https://github.com/jordan-zav/Lithica-GeoTech-Community).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

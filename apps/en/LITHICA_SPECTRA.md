@@ -21,4 +21,4 @@ Band availability depends on the product and each file's metadata. Review coeffi
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-spectra/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

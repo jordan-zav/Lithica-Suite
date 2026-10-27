@@ -21,4 +21,4 @@ Opening a document does not run its code. Lab runs only when requested and may n
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-notebook/).
 
-[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.en.md).
+[Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

@@ -23,4 +23,4 @@ Los resultados dependen de los parámetros, unidades y versión del método. Las
 
 [Más información en GisGeo Dev](https://gisgeo.dev/es/portfolio/lithica-geotech/).
 
-[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.md).
+[Descargas y acceso](../RELEASES.md) · [Todas las herramientas](../README.es.md).
