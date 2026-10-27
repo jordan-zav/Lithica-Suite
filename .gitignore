@@ -1,0 +1,13 @@
+# Generated local state
+.idea/
+.vscode/
+build/
+artifacts/
+*.log
+*.tmp
+*.bak
+*.old
+.env
+.env.*
+Thumbs.db
+.DS_Store
