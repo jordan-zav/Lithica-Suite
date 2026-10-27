@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_GEOMODELLER.md)
+
 <p><img src="../assets/logos/geomodeller.png" width="88" height="88" alt="Logo de Lithica GeoModeller"></p>
 
 # Lithica GeoModeller

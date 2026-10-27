@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_NOTEBOOK.md)
+
 <p><img src="../assets/logos/notebook.png" width="88" height="88" alt="Logo de Lithica Notebook"></p>
 
 # Lithica Notebook

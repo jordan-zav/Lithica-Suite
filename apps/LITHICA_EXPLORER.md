@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_EXPLORER.md)
+
 <p><img src="../assets/logos/explorer.png" width="88" height="88" alt="Logo de Lithica Explorer"></p>
 
 # Lithica Explorer

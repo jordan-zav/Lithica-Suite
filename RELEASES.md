@@ -1,3 +1,5 @@
+[Español](RELEASES.md) · [English](RELEASES.en.md)
+
 # Descargas y acceso
 
 Elige el canal oficial de cada producto. Las aplicaciones y los componentes se distribuyen por separado.

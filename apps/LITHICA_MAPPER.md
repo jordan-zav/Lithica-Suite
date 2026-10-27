@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_MAPPER.md)
+
 <p><img src="../assets/logos/mapper.png" width="88" height="88" alt="Logo de Lithica Mapper"></p>
 
 # Lithica Mapper

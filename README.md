@@ -1,3 +1,5 @@
+<p align="center"><strong>Español</strong> · <a href="README.en.md" lang="en">English</a></p>
+
 <p align="center">
   <img src="assets/lithica-suite.svg" width="100%" alt="Lithica Suite — Del campo al conocimiento. Herramientas geocientíficas de GisGeo Dev.">
 </p>

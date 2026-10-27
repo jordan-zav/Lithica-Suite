@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_GEOTECH_COMMUNITY.md)
+
 <p><img src="../assets/logos/geotech.png" width="88" height="88" alt="Logo de Lithica GeoTech Community"></p>
 
 # Lithica GeoTech Community

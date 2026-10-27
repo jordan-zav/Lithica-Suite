@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_CLOUD_SYNC.md)
+
 <p><img src="../assets/logos/cloud-sync.png" width="88" height="88" alt="Logo de Lithica Cloud Sync"></p>
 
 # Lithica Cloud Sync

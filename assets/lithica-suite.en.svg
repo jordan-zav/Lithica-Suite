@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Lithica Suite</title><desc id="desc">Geoscience tools: from fieldwork to knowledge. Illustration of strata, terrain and mapping.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10263e"/><stop offset="1" stop-color="#183e4d"/></linearGradient><clipPath id="clip"><rect width="1280" height="400" rx="24"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="1280" height="400" fill="url(#bg)"/>
+<g fill="none" stroke="#b9d4ce" stroke-width="1" opacity=".12"><path d="M680 0 Q880 180 1150 40 T1400 120 M650 30 Q880 220 1150 80 T1400 160 M620 60 Q880 260 1150 120 T1400 200 M590 90 Q880 300 1150 160 T1400 240 M560 120 Q880 340 1150 200 T1400 280 M530 150 Q880 380 1150 240 T1400 320 M500 180 Q880 420 1150 280 T1400 360"/></g>
+<rect x="62" y="64" width="48" height="5" rx="2" fill="#83c84d"/>
+<text x="62" y="111" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="5" fill="#b8d2c7">GISGEO DEV</text>
+<text x="58" y="187" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="66" fill="#f5f4e9">Lithica <tspan fill="#8bd14f">Suite</tspan></text>
+<text x="62" y="242" font-family="Arial, Helvetica, sans-serif" font-size="29" fill="#f5f4e9">From fieldwork to knowledge.</text>
+<text x="62" y="290" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#bdd4d2">FIELDWORK · MAPS · SCIENCE · LEARNING</text>
+<g stroke="#12263f" stroke-width="4" stroke-linejoin="round">
+<path d="M800 168 L1002 71 L1205 168 L1002 273 Z" fill="#e5eadc"/>
+<path d="M800 168 L1002 273 L1002 355 L800 249 Z" fill="#698699"/>
+<path d="M1002 273 L1205 168 L1205 249 L1002 355 Z" fill="#355866"/>
+<path d="M800 195 Q860 195 913 242 T1002 304 L1002 328 Q944 318 899 276 T800 224 Z" fill="#82bd43"/>
+<path d="M1002 304 Q1068 287 1115 256 T1205 199 L1205 224 Q1150 256 1110 281 T1002 328 Z" fill="#67a933"/>
+<path d="M838 169 L911 104 L959 162 L1004 123 L1082 200 L1002 241 Z" fill="#adc0b8"/>
+<path d="M838 169 L911 104 L959 162 L916 146 Z" fill="#f8f7ed"/>
+<path d="M916 205 Q988 173 1035 180 T1159 172" fill="none" stroke="#4d878b" stroke-width="5"/>
+</g>
+<g fill="none" stroke="#578b85" stroke-width="2"><path d="M1004 96 L1167 174 M1040 79 L1194 153 M833 183 L1003 99 M868 201 L1040 119 M905 219 L1075 137"/></g>
+<circle cx="1060" cy="144" r="20" fill="#10263e" stroke="#f8f7ed" stroke-width="3"/><circle cx="1060" cy="144" r="5" fill="#8bd14f"/><path d="M1060 115 V132 M1060 156 V173 M1031 144 H1048 M1072 144 H1089" stroke="#f8f7ed" stroke-width="3"/>
+<path d="M0 382 H1280" stroke="#83c84d" stroke-width="4"/>
+</g></svg>

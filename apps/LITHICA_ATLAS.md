@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_ATLAS.md)
+
 <p><img src="../assets/logos/atlas.png" width="88" height="88" alt="Logo de Lithica Atlas"></p>
 
 # Lithica Atlas

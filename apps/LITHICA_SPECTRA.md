@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_SPECTRA.md)
+
 <p><img src="../assets/logos/spectra.png" width="88" height="88" alt="Logo de Lithica Spectra"></p>
 
 # Lithica Spectra

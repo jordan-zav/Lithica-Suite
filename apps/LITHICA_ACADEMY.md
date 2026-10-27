@@ -1,3 +1,5 @@
+**Español** · [English](en/LITHICA_ACADEMY.md)
+
 # Lithica Academy
 
 **Aprende con datos y prácticas.** Rutas de aprendizaje en español para geociencias, con ejercicios, fuentes de referencia y controles de calidad.
