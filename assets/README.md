@@ -9,4 +9,4 @@ Las marcas e imágenes identifican productos de GisGeo Dev. Su presencia en este
 [Volver al catálogo](../README.es.md).
 
 
-Los banners de Explorer, Atlas y Mapper en inglés son composiciones vectoriales con los logos originales, capacidades documentadas e ilustraciones esquemáticas de campo, consulta y cartografía. No representan capturas nuevas de una versión de la app.
+Los banners de Explorer, Atlas y Mapper en inglés son composiciones vectoriales exportadas a PNG con los logos originales, capacidades documentadas e ilustraciones esquemáticas de campo, consulta y cartografía. No representan capturas nuevas de una versión de la app.

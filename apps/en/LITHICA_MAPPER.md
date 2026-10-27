@@ -24,6 +24,6 @@ Check units, datum and coordinate reference systems when combining data. Account
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-mapper/).
 
-<img src="../../assets/showcase/mapper.en.svg" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus.">
+<img src="../../assets/showcase/mapper.en.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

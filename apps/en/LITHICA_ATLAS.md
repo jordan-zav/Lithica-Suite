@@ -23,6 +23,6 @@ Initial setup requires connectivity, free storage and time to download the catal
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-atlas/).
 
-<img src="../../assets/showcase/atlas.en.svg" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book.">
+<img src="../../assets/showcase/atlas.en.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

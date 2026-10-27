@@ -52,19 +52,19 @@ The family also includes **[Academy](apps/en/LITHICA_ACADEMY.md)**, with Spanish
 
 Capture field evidence and keep its geological context.
 
-<a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.svg" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
+<a href="apps/en/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.png" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
 
 ### Lithica Atlas
 
 Explore visual collections and scientific references.
 
-<a href="apps/en/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.svg" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
+<a href="apps/en/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
 
 ### Lithica Mapper
 
 Draw, organize and exchange geological maps.
 
-<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.svg" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
+<a href="apps/en/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
 
 ## From fieldwork to the desktop
 

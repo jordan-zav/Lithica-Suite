@@ -25,6 +25,6 @@ Prepare areas and files before leaving coverage. First sign-in, account renewal,
 
 [More information on GisGeo Dev](https://gisgeo.dev/portfolio/lithica-explorer/).
 
-<img src="../../assets/showcase/explorer.en.svg" width="100%" alt="English presentation of Explorer with a schematic field map and location markers.">
+<img src="../../assets/showcase/explorer.en.png" width="100%" alt="English presentation of Explorer with a schematic field map and location markers.">
 
 [Downloads and access](../../RELEASES.en.md) · [All tools](../../README.md).

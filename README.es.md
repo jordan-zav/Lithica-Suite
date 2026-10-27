@@ -52,19 +52,19 @@ También forman parte de la familia **[Academy](apps/LITHICA_ACADEMY.md)**, con 
 
 Registra evidencias y conserva su contexto geológico.
 
-<a href="apps/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.svg" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
+<a href="apps/LITHICA_EXPLORER.md"><img src="assets/showcase/explorer.en.png" width="100%" alt="English presentation of Explorer with a schematic field map and location markers."></a>
 
 ### Lithica Atlas
 
 Explora colecciones visuales y referencias científicas.
 
-<a href="apps/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.svg" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
+<a href="apps/LITHICA_ATLAS.md"><img src="assets/showcase/atlas.en.png" width="100%" alt="English presentation of Atlas with schematic reference cards, a mineral and an open book."></a>
 
 ### Lithica Mapper
 
 Dibuja, organiza e intercambia cartografía geológica.
 
-<a href="apps/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.svg" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
+<a href="apps/LITHICA_MAPPER.md"><img src="assets/showcase/mapper.en.png" width="100%" alt="English presentation of Mapper with a schematic geological layer stack and stylus."></a>
 
 ## Del campo al escritorio
 
